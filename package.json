@@ -1,6 +1,6 @@
 {
   "name": "friends",
-  "hompage": "https://realMecoy.github.io/roboFriends",
+  "homepage": "https://realMecoy.github.io/roboFriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
